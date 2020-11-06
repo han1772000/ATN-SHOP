@@ -364,5 +364,4 @@ function qrPage(req, res) {
 }
 
 /// ------------------ gọi SERVER thực thi
-
 app.listen(process.env.PORT || 8081);
