@@ -365,5 +365,4 @@ function qrPage(req, res) {
 
 /// ------------------ gọi SERVER thực thi
 
-
 var server = app.listen(PORT || 8081);
